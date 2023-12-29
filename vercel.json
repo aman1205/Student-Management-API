@@ -1,0 +1,5 @@
+{
+    "version":1,
+    "build":[{"src":"./src/app.ts" ,"use":"@vercel/node"}],
+    "routes":[{"src":"/src(.*)" , "dest": "/"}]
+}
