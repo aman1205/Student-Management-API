@@ -10,7 +10,7 @@ Briefly describe your project.
 
 The Swagger documentation for the API can be found at the following URL:
 
-[API Swagger Documentation](http://localhost:8000/docs)
+[API Swagger Documentation](http://65.1.96.126:8000/docs/#/)
 
 ### Postman Collection
 
