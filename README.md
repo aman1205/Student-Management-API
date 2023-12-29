@@ -10,7 +10,7 @@ Briefly describe your project.
 
 The Swagger documentation for the API can be found at the following URL:
 
-[API Swagger Documentation](http://your-api-url/docs)
+[API Swagger Documentation](http://localhost:8000/docs)
 
 ### Postman Collection
 
@@ -33,6 +33,7 @@ Make sure you have the following installed:
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Set up your environment variables by creating a `.env` file. Use the following template:
+4. Run npm run dev 
 
 ```dotenv
 PORT=8000
